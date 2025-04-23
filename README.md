@@ -38,3 +38,12 @@ Finishing touches:
 - when happy with results put back bottom plate etc
 
 --> now your bed should be level from left to right in parallel to the x gantry of the printer
+
+
+Todo:
+-----
+
+E.
+- idea for front to back tramming by shimming (washers or printed shims) in corners where bed is mounted to z lead-screws with 2 screws in each corner
+  tightening/loosening them has some effect but with the speed this printer is capable of, I would rather not have loosened screws
+  
