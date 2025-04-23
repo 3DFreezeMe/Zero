@@ -52,6 +52,10 @@ I tested with the lowest heights you could possibly print and tried these on the
 But with a difference of let's say -0.2mm in your heightmap front to back, adding 0.2mm on both back left and right sides (under the screws in picture E.) the result is bigger than you need.
 
 Tested also by putting shims of 0.2mm under front screws and 0.3mm under back screws (so effectively 0.1mm added to back), the results were not what I hoped for.
-Now the latest 1.4.3 firmware moves to using eddy sensor for z offset, maybe shimming the bed itself could be done without worrying about the pressure gauge underneath the bed.
+
+F.
+- Now the latest 1.4.3 firmware moves to using eddy sensor for z offset, maybe shimming the bed itself could be done without worrying about the pressure gauge underneath the    bed.
+
+
 tbc
   
