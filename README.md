@@ -11,10 +11,10 @@ That way you can rotate them until both blocks are pinched between bed and x gan
 Pictures with instructions:
 
 A. 
-- remove plate from bed and place blocks on both sides
+- place blocks on both sides of extruder on X gantry
 
 B. 
-- you can move belt to lift bed upwards to x gantry
+- you can move belt to lift bed upwards to X gantry if you want but this is how it will look after step D. below
 
 C. 
 Step 1) and 2) ONLY WHEN NEEDED!
@@ -28,10 +28,13 @@ I was able to just remove the belt from idler 3) by hand without loosening or re
 D. 
 - with the belt removed from idler 3) you are now able to rotate both lead-screws independently by hand until both blocks are pinched between bed and and x gantry
 
---> now your bed should be level from left to right in parallel to the x gantry of the printer
+
+Finishing touches:
 
 - put back belt around idler 3)
 - (put back screw 2) if you loosened it completely from the hole)
 - (tighten all screws)
-- put back bottom plate etc
-- recalibrate and check difference in heightmap  
+- create new heightmap (http://<printer-ip>/heightmap) and verify if deviation is better 
+- when happy with results put back bottom plate etc
+
+--> now your bed should be level from left to right in parallel to the x gantry of the printer
