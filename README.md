@@ -16,13 +16,14 @@ A.
 B. 
 - you can move belt to lift bed upwards to x gantry
 
-C. ONLY WHEN NEEDED!
-   I was able to just remove the belt from idler 3) by hand without loosening or removing any screw!
+C. 
+Step 1) and 2) ONLY WHEN NEEDED!
+I was able to just remove the belt from idler 3) by hand without loosening or removing any screw! Does not need much force.
 
 1) loosen circled screws, no need to remove them
 2) loosen screw (use the channel following the arrow)
    for me it was not needed to remove it but I completely loosened the screw
-3) push the idler (left from 1) a bit to the left to release belt tensione so that you can remove the belt from idler 3)
+3) (push the idler left from 1) a bit to the left to release belt tension so that you can) remove the belt from idler 3)
 
 D. 
 - with the belt removed from idler 3) you are now able to rotate both lead-screws independently by hand until both blocks are pinched between bed and and x gantry
@@ -30,7 +31,7 @@ D.
 --> now your bed should be level from left to right in parallel to the x gantry of the printer
 
 - put back belt around idler 3)
-- put back screw 2) if you loosened it completely from the hole
-- tighten all screws
+- (put back screw 2) if you loosened it completely from the hole)
+- (tighten all screws)
 - put back bottom plate etc
 - recalibrate and check difference in heightmap  
