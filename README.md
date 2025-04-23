@@ -15,10 +15,10 @@ A. remove plate from bed and place blocks on both sides
 B. you can move belt to lift bed upwards to x gantry
 
 C.  
-    1) loosen circled screws, no need to remove them
-    2) loosen screw (use the channel following the arrow)
-       for me it was not needed to remove it but I completely loosened the screw
-    3) push the idler (left from 1) a bit to the left to release belt tensione so that you can remove the belt from idler 3)
+1) loosen circled screws, no need to remove them
+2) loosen screw (use the channel following the arrow)
+   for me it was not needed to remove it but I completely loosened the screw
+3) push the idler (left from 1) a bit to the left to release belt tensione so that you can remove the belt from idler 3)
 
 D. with the belt removed from idler 3) you are now able to rotate both lead-screws independently by hand until both blocks are pinched between bed and and x gantry
 
