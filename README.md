@@ -23,8 +23,8 @@ B.
 - you can move belt to lift bed upwards to X gantry if you want but this is how it will look after step D. below
 
 C. 
-Step 1) and 2) ONLY WHEN NEEDED!
-I was able to just remove the belt from idler 3) by hand without loosening or removing any screw! Does not need much force.
+- Step 1) and 2) ONLY WHEN NEEDED!
+- I was able to just remove the belt from idler 3) by hand without loosening or removing any screw! Does not need much force.
 
 1) loosen circled screws, no need to remove them
 2) loosen screw (use the channel following the arrow)
