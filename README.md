@@ -9,7 +9,10 @@ That way you can rotate them until both blocks are pinched between bed and x gan
 
 
 Pictures with instructions:
+---------------------------
 
+METHOD 1
+--------
 A. 
 - place blocks on both sides of extruder on X gantry
 
@@ -37,11 +40,11 @@ Finishing touches:
 - create new heightmap (http://<printer-ip>/heightmap) and verify if deviation is better 
 - when happy with results put back bottom plate etc
 
---> now your bed should be reasonably level from left to right in parallel to the x gantry of the printer. Placing the belt back into position, the alignment could move a bit. Finer adjustments are easier using the belt-tooth-skipping method.
+--> now your bed should be reasonably level from left to right in parallel to the x gantry of the printer. Placing the belt back into position, the alignment could move a bit. Finer adjustments are easier using the belt-tooth-skipping method (next).
 
 
-ALERNATIVE METHOD:
-------------------
+METHOD 2:
+---------
 - using the belt-tooth-skipping technic for fine adjustments after using method above or just replacing it.
 - maybe not for everyone but it is a tested and working method
 - for explanation of procedure see video: https://youtu.be/GVRu_uX4PEk?si=_stUpJl4nDN17h4r
@@ -49,7 +52,7 @@ ALERNATIVE METHOD:
 
 
 
-Todo:
+TODO:
 -----
 
 E.
@@ -63,10 +66,12 @@ E.
 F.
 - upon further testing, shimming using Kapton tape will get you there. Very thin, heat resistant and therefor best option to get an even bed front to back.
 
---> after adding several layers of Kapton tape in the lowest corner, I ended up with a 0.102mm deviation heightmap (cold) and 0.104mm hot (15m soak @100C).
+--> after adding several layers of Kapton tape in the lowest corner, I ended up with a 0.102mm deviation heightmap (cold) and 0.099mm hot (20m soak @100C).
+   see 'cold after tramming.jpg' and 'hot after tramming.jpg'.
+   Not sure why the z=0 point is almost 0.3mm lower hot, I did home before heightmap scan. Maybe because I did alter the tightness of screw with nylock nut which holds the strain gauge underneath left front corner.
 
 G.
-- Now the latest 1.4.2 firmware moves to using eddy sensor for z offset, maybe shimming the bed itself could be done without worrying about the pressure gauge underneath the    bed.
+- Now the latest 1.4.2 firmware moves to using eddy sensor for z offset, maybe shimming the bed itself could be done without worrying about the pressure gauge underneath      the bed.
 
 
 tbc
