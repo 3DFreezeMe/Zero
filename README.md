@@ -67,6 +67,7 @@ E.
 - idea for front to back tramming by shimming (washers or printed shims) in corners where bed is mounted to z lead-screws with 2 screws in each corner
   tightening/loosening them has some effect but with the speed this printer is capable of, I would rather not have loosened screws
   --> as these are quite close together, the effect off adding the needed 0.2mm on either front or back side will result in a bigger change over-all than wanted
+- added 'zero-bed-shim.step' file for testing
 - I tested with the lowest heights you could possibly print and tried these on the lowest side (back-side for me).
   But with a difference of let's say -0.2mm in your heightmap front to back, adding 0.2mm on both back left and right sides (under the screws in picture E.) the result is     bigger than you need.
 - tested also by putting shims of 0.2mm under front screws and 0.3mm under back screws (so effectively 0.1mm added to back), the results were not what I hoped for.
