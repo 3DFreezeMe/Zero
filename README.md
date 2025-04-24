@@ -9,12 +9,12 @@ That way you can rotate them until both blocks are pinched between bed and x gan
 
 
 Pictures with instructions:
--
+
 
 --------
 METHOD 1
 --------
--
+
 
 A. 
 - place blocks on both sides of extruder on X gantry
@@ -49,7 +49,7 @@ Finishing touches:
 ---------
 METHOD 2:
 ---------
--
+
 
 - using the belt-tooth-skipping technic for fine adjustments after using method above or just replacing it.
 - maybe not for everyone but it is a tested and working method
@@ -57,10 +57,10 @@ METHOD 2:
 - in case of the Sovol Zero, you would do this underneath where the belt and couplers are located
 -
 
------
-TODO:
------
--
+--------
+SHIMMING
+--------
+
 
 E.
 - idea for front to back tramming by shimming (washers or printed shims) in corners where bed is mounted to z lead-screws with 2 screws in each corner
@@ -73,9 +73,8 @@ E.
 F.
 - upon further testing, shimming using Kapton tape will get you there. Very thin, heat resistant and therefor best option to get an even bed front to back.
 
---> after adding several layers of Kapton tape in the lowest corner, I ended up with a 0.102mm deviation heightmap (cold) and 0.099mm hot (20m soak @100C).
-   see 'cold after tramming.jpg' and 'hot after tramming.jpg'.
-   Not sure why the z=0 point is almost 0.3mm lower hot, I did home before heightmap scan. Maybe because I did alter the tightness of screw with nylock nut which holds the strain gauge underneath left front corner.
+--> after adding several layers of Kapton tape in the lowest corner, I ended up with a 0.102mm deviation heightmap (cold) and 0.099mm hot (20m soak @100C). See 'cold after tramming.jpg' and 'hot after tramming.jpg' for heightmap results after tramming.
+Not sure why the z=0 point is almost 0.3mm lower when hot, I homed the printer after soak and before the new heightmap scan. Maybe because I did alter the tightness of screw with nylock nut which holds the strain gauge underneath left front corner.
 
 G.
 - Now the latest 1.4.2 firmware moves to using eddy sensor for z offset, maybe shimming the bed itself could be done without worrying about the pressure gauge underneath      the bed.
