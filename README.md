@@ -9,10 +9,13 @@ That way you can rotate them until both blocks are pinched between bed and x gan
 
 
 Pictures with instructions:
----------------------------
+-
 
+--------
 METHOD 1
 --------
+-
+
 A. 
 - place blocks on both sides of extruder on X gantry
 
@@ -43,17 +46,21 @@ Finishing touches:
 --> now your bed should be reasonably level from left to right in parallel to the x gantry of the printer. Placing the belt back into position, the alignment could move a bit. Finer adjustments are easier using the belt-tooth-skipping method (next).
 
 
+---------
 METHOD 2:
 ---------
+-
+
 - using the belt-tooth-skipping technic for fine adjustments after using method above or just replacing it.
 - maybe not for everyone but it is a tested and working method
 - for explanation of procedure see video: https://youtu.be/GVRu_uX4PEk?si=_stUpJl4nDN17h4r
 - in case of the Sovol Zero, you would do this underneath where the belt and couplers are located
+-
 
-
-
+-----
 TODO:
 -----
+-
 
 E.
 - idea for front to back tramming by shimming (washers or printed shims) in corners where bed is mounted to z lead-screws with 2 screws in each corner
