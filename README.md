@@ -55,7 +55,8 @@ METHOD 2:
 - maybe not for everyone but it is a tested and working method
 - for explanation of procedure see video: https://youtu.be/GVRu_uX4PEk?si=_stUpJl4nDN17h4r
 - in case of the Sovol Zero, you would do this underneath where the belt and couplers are located
--
+
+- 
 
 --------
 SHIMMING
@@ -73,8 +74,9 @@ E.
 F.
 - upon further testing, shimming using Kapton tape will get you there. Very thin, heat resistant and therefor best option to get an even bed front to back.
 
---> after adding several layers of Kapton tape in the lowest corner, I ended up with a 0.102mm deviation heightmap (cold) and 0.099mm hot (20m soak @100C). See 'cold after tramming.jpg' and 'hot after tramming.jpg' for heightmap results after tramming.
+--> after adding several layers of Kapton tape in the lowest corner, I ended up with a 0.102mm deviation heightmap (cold) and 0.089mm hot (20m soak @100C). See 'cold after tramming.jpg' and 'hot after tramming.jpg' for heightmap results after tramming.
 Not sure why the z=0 point is almost 0.3mm lower when hot, I homed the printer after soak and before the new heightmap scan. Maybe because I did alter the tightness of screw with nylock nut which holds the strain gauge underneath left front corner.
+- a reboot did not fix the z=0 results (first layer prints perfect)
 
 G.
 - Now the latest 1.4.2 firmware moves to using eddy sensor for z offset, maybe shimming the bed itself could be done without worrying about the pressure gauge underneath      the bed.
